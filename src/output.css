@@ -515,7 +515,7 @@
     background-color: var(--color-blue-500);
   }
   .bg-\[url\(\/src\/assets\/header-img\.png\)\] {
-    background-image: url(/src/assets/header-img.png);
+    background-image: url("./assets/header-img.png");
   }
   .bg-cover {
     background-size: cover;
