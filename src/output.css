@@ -212,11 +212,26 @@
   .top-27\.5 {
     top: calc(var(--spacing) * 27.5);
   }
+  .top-28 {
+    top: calc(var(--spacing) * 28);
+  }
+  .top-29 {
+    top: calc(var(--spacing) * 29);
+  }
   .top-\[-10px\] {
     top: -10px;
   }
+  .right-7 {
+    right: calc(var(--spacing) * 7);
+  }
+  .right-10 {
+    right: calc(var(--spacing) * 10);
+  }
   .right-13 {
     right: calc(var(--spacing) * 13);
+  }
+  .right-17 {
+    right: calc(var(--spacing) * 17);
   }
   .right-\[-9px\] {
     right: -9px;
@@ -226,6 +241,18 @@
   }
   .bottom-\[-10px\] {
     bottom: -10px;
+  }
+  .left-7 {
+    left: calc(var(--spacing) * 7);
+  }
+  .left-8 {
+    left: calc(var(--spacing) * 8);
+  }
+  .left-9 {
+    left: calc(var(--spacing) * 9);
+  }
+  .left-10 {
+    left: calc(var(--spacing) * 10);
   }
   .left-13 {
     left: calc(var(--spacing) * 13);
@@ -239,11 +266,29 @@
   .left-\[-8px\] {
     left: -8px;
   }
+  .left-\[\.5\%\] {
+    left: .5%;
+  }
+  .left-\[4\.5\%\] {
+    left: 4.5%;
+  }
+  .left-\[42\.5\%\] {
+    left: 42.5%;
+  }
+  .left-\[43\.5\%\] {
+    left: 43.5%;
+  }
+  .left-\[45\.5\%\] {
+    left: 45.5%;
+  }
   .left-\[47\.5\%\] {
     left: 47.5%;
   }
   .left-\[47\.5\] {
     left: 47.5;
+  }
+  .left-\[48\.5\%\] {
+    left: 48.5%;
   }
   .z-10 {
     z-index: 10;
@@ -340,6 +385,9 @@
   }
   .w-\[16\%\] {
     width: 16%;
+  }
+  .w-\[17\%\] {
+    width: 17%;
   }
   .w-\[90\%\] {
     width: 90%;
@@ -669,14 +717,29 @@
     .md\:top-35 {
       top: calc(var(--spacing) * 35);
     }
+    .md\:top-39 {
+      top: calc(var(--spacing) * 39);
+    }
     .md\:top-40 {
       top: calc(var(--spacing) * 40);
+    }
+    .md\:right-17 {
+      right: calc(var(--spacing) * 17);
     }
     .md\:right-59 {
       right: calc(var(--spacing) * 59);
     }
     .md\:right-116 {
       right: calc(var(--spacing) * 116);
+    }
+    .md\:right-170 {
+      right: calc(var(--spacing) * 170);
+    }
+    .md\:right-171 {
+      right: calc(var(--spacing) * 171);
+    }
+    .md\:right-172 {
+      right: calc(var(--spacing) * 172);
     }
     .md\:right-174 {
       right: calc(var(--spacing) * 174);
@@ -686,6 +749,9 @@
     }
     .md\:left-58\.5 {
       left: calc(var(--spacing) * 58.5);
+    }
+    .md\:left-116 {
+      left: calc(var(--spacing) * 116);
     }
     .md\:left-118 {
       left: calc(var(--spacing) * 118);
